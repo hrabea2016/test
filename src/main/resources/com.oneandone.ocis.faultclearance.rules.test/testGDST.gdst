@@ -55,7 +55,7 @@
       <factField>name</factField>
       <type>String</type>
       <valueList>a</valueList>
-      <isInsertLogical>true</isInsertLogical>
+      <isInsertLogical>false</isInsertLogical>
     </insert-fact-column52>
   </actionCols>
   <auditLog>
